@@ -1,4 +1,3 @@
-import sys
 from collections import Counter
 with open('data/my_input/6.in','r') as f:
     lines=[l.strip() for l in f]
